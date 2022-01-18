@@ -1,12 +1,10 @@
 # Getting Started with Create React App
 
-Steps:
-1. Go to the link
-2. push in left image
-3. shop, sign in and sign up working
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## ongoing project
 https://mertkiziloglu.github.io/crwn-clothing/
+
 
 
 # How to fork and clone
